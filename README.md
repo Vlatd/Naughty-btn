@@ -1,8 +1,7 @@
-# Welcome to GitHub Desktdop!
-ne rofl
+NAUGHTY-BUTTON
+{html+css}
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
-![image](https://github.com/Vlatd/desktop-tutorial/assets/145061572/d355b7b6-d9a7-45d7-b76d-9b9e3bb224af)
+In this repository, you can find the code for the essence of the button, which is that it cannot be clicked
 
+![ss](https://github.com/Vlatd/desktop-tutorial/assets/145061572/7300a2f7-ea1c-4bc4-ab42-75ea95507014)
